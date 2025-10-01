@@ -4,6 +4,7 @@ imagePullSecrets:
 - name: test-secret
 - name: test-secret
 - name: test-secret3
+- name: test-secret4
 kind: ServiceAccount
 metadata:
   name: default
